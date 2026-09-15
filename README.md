@@ -33,4 +33,4 @@ The latest Android APK is available under the **Releases** section of this repos
 ---
 
 **DMS – Document Management System**  
-**ANC Education**
+Copyright © 2026 UWL Branch Campus Operated by ANC Education, Sri Lanka
