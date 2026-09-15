@@ -1,4 +1,4 @@
-# DMS – Document Management System
+# DMS - Document Management System
 
 The **DMS (Document Management System)** is a mobile application developed for **ANC Education** to simplify and streamline the management and submission of student documents.
 
@@ -6,7 +6,7 @@ The **DMS (Document Management System)** is a mobile application developed for *
 
 The latest Android APK is available under the **Releases** section of this repository.
 
-**Current Version:** `v1.0.0`
+**Current Version:** `v1.0`
 
 ### Download & Installation
 
@@ -32,5 +32,5 @@ The latest Android APK is available under the **Releases** section of this repos
 
 ---
 
-**DMS – Document Management System**  
+**DMS - Document Management System**  
 Copyright © 2026 UWL Branch Campus Operated by ANC Education, Sri Lanka
