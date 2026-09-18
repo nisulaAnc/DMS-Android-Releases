@@ -29,6 +29,7 @@ The latest Android APK is available under the **Releases** section of this repos
 | Version | Status |
 |---------|--------|
 | v1.0 | Initial Release |
+| v1.1 | Updated Release |
 
 ---
 
